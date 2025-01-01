@@ -1,3 +1,6 @@
+[![Compile and run tests](https://github.com/alessandrocandolini/haskell-santa-problem/actions/workflows/ci.yml/badge.svg)](https://github.com/alessandrocandolini/haskell-santa-problem/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/alessandrocandolini/haskell-santa-problem/graph/badge.svg?token=tmN7pv5JqW)](https://codecov.io/gh/alessandrocandolini/haskell-santa-problem)
+
 # haskell-santa-problem
 
 
