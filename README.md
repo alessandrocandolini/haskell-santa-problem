@@ -41,18 +41,18 @@ Note: Tests are run in the CI and test coverage reports are automatically upload
 
 To **run** the executable via slack,
 ```
-stack exec haskell-santa-problem
+stack exec santa
 ```
 or passing arguments
 ```
-stack exec haskell-santa-problem -- -v doctor
+stack exec santa -- -v doctor
 ```
 
 To **install** the executable under `~/.local/bin`,
 ```
 stack install
 ```
-and the executable can be run with `haskell-santa-problem` assuming `~/.local/bin` is in the `$PATH` variable.
+and the executable can be run with `santa` assuming `~/.local/bin` is in the `$PATH` variable.
 
 To run a version of **ghci** compatible with the resolver
 ```
